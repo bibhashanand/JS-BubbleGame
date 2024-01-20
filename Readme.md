@@ -8,3 +8,5 @@
 <p> Or clone this project and run with liveServer</p>
 
 ### Happy Gaming!
+
+<p>If you find any bug or issue or want to add feature, feel free to raise pull request </p>
